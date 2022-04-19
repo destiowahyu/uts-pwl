@@ -1,0 +1,37 @@
+.tambah_brg a{
+    background-color: #64bceb;
+    margin-bottom: 20px;
+    border: none;
+    padding:10px;
+    border-radius: 15px;
+}
+
+.tambah_brg a:focus{
+    background-color: #64bceb;
+}
+
+
+.tambah_brg a:hover{
+    background-color: #6ea9c9;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.table{
+    text-align: center;
+}
+
+.add_data_brg a{
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #64bceb;
+    border: none;
+    padding:10px;
+    border-radius: 15px;
+}
+
+.tbl_opsi:hover{
+    text-decoration: none;
+}
